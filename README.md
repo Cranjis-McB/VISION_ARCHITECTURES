@@ -5,4 +5,4 @@
 
 ## Implemented Architectures as of now
 
-1. ResNet :heavy_check_mark:
+1. ResNet :---:
