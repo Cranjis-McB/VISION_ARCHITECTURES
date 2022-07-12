@@ -5,4 +5,4 @@
 
 ## Implemented Architectures as of now
 
-1. ResNet :white_check_mark:
+1. ResNets (Versions - 18, 34, 50, 101, 152) :white_check_mark:
