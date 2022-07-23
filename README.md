@@ -1,7 +1,7 @@
 # CNN_ARCHITECTURES
 
 1. Implementaion of the Popular CNN Architectures from Scratch.
-2. Compare the performance with Standard Architecture of the same.
+2. [Performance Comparison](https://github.com/Cranjis-McB/CNN_ARCHITECTURES/tree/main/kaggle_notebooks) with the Pytorch Standard Architectures.
 
 ## Implemented Architectures as of now
 
