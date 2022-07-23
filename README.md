@@ -17,5 +17,12 @@ You can import the mentioned CNN Architectures from this file.
 ```python
 from cnn_architectures import ResNet18, ResNet34, ResNet50, ResNet101, ResNet152
 from cnn_architectures import EffNet
+
+# Initialize the model.
+resnet = ResNet18(img_channel=3, num_classes=1000) # Resnets
+
+version = 'b0'
+effnet = EffNet(version, num_classes=1000) # Efficient-Nets
+
 ```
 
