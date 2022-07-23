@@ -5,4 +5,5 @@
 
 ## Implemented Architectures as of now
 
-1. ResNets (Versions - 18, 34, 50, 101, 152) :white_check_mark:
+1. ResNet (Versions - 18, 34, 50, 101, 152) :white_check_mark:
+2. EfficientNet (Versions - b0-b7) :white_check_mark:
