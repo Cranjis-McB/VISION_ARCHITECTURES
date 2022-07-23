@@ -12,7 +12,7 @@
 
 You can import the mentioned CNN Architectures from this file.
 
-**How to Import?**
+**How to Use?**
 
 ```python
 from cnn_architectures import ResNet18, ResNet34, ResNet50, ResNet101, ResNet152
