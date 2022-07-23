@@ -8,7 +8,7 @@
 1. ResNet (Versions - 18, 34, 50, 101, 152) :white_check_mark:
 2. EfficientNet (Versions - b0-b7) :white_check_mark:
 
-[cnn_architectures.ipynb] (https://github.com/Cranjis-McB/CNN_ARCHITECTURES/blob/main/cnn_architectures.ipynb) file
+## [cnn_architectures.ipynb](https://github.com/Cranjis-McB/CNN_ARCHITECTURES/blob/main/cnn_architectures.ipynb) file
 
 You can import the mentioned CNN Architectures from this file.
 
