@@ -7,6 +7,7 @@
 
 1. ResNet (Versions - 18, 34, 50, 101, 152) :white_check_mark:
 2. EfficientNet (Versions - b0-b7) :white_check_mark:
+3. EfficientNet-V2 (Versions - S, M, L) :white_check_mark:
 
 ## [cnn_architectures.ipynb](https://github.com/Cranjis-McB/CNN_ARCHITECTURES/blob/main/cnn_architectures.ipynb) file
 
@@ -17,12 +18,16 @@ You can import the mentioned CNN Architectures from this file.
 ```python
 from cnn_architectures import ResNet18, ResNet34, ResNet50, ResNet101, ResNet152
 from cnn_architectures import EffNet
+from cnn_architectures import EffNetV2
 
 # Initialize the model.
 resnet = ResNet18(img_channel=3, num_classes=1000) # Resnets
 
-version = 'b0'
+version = 'b0' # b0-b7
 effnet = EffNet(version, num_classes=1000) # Efficient-Nets
+
+version = 's' # s, m, l
+effnetV2 = EffNetV2(version, num_classes=1000) # EfficientNet-V2
 
 ```
 
