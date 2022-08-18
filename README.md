@@ -31,3 +31,15 @@ effnetV2 = EffNetV2(version, num_classes=1000) # EfficientNet-V2
 
 ```
 
+## [Data Augmentations](https://github.com/Cranjis-McB/CNN_ARCHITECTURES/tree/main/Data%20Augmentation)
+
+This folder consists of the Pytorch Implementation of the Popular SOTA Vision Data Augmentations techniques.
+
+## Implemented Data Augmentations as of now
+
+1. [Cutout](https://arxiv.org/abs/1708.04552)
+2. [Mixup](https://arxiv.org/pdf/1710.09412.pdf)
+3. [CutMix](https://arxiv.org/abs/1905.04899v2)
+4. [AugMix](https://arxiv.org/abs/1912.02781)
+5. [GridMask](https://arxiv.org/abs/2001.04086v2)
+
