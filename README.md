@@ -1,6 +1,6 @@
 # CNN_ARCHITECTURES
 
-1. Implementaion of the Popular CNN Architectures from Scratch.
+1. Implementaion of the Popular Vision Architectures from Scratch.
 2. [Performance Comparison](https://github.com/Cranjis-McB/CNN_ARCHITECTURES/tree/main/kaggle_notebooks) with the Pytorch Standard Architectures.
 3. Implementation of the Popular Vision Data Augmentation Techniques from Scratch.
 
